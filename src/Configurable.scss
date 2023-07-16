@@ -1,0 +1,14 @@
+$background : tomato;
+
+
+*{
+    background-color: $background;
+    text-align: center;
+}
+
+.configurable-text {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 20%;
+}
